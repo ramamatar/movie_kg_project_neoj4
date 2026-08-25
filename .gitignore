@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+neo4j_import/recommendations-50.dump
+setup.sh
+package_project.sh
+docker-compose.yml
